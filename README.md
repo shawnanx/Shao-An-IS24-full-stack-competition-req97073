@@ -14,8 +14,8 @@ If you want to try build with Quasar:
 Please install the required pacakge to use it
 To run it make sure: 
    - `/public` folder has the quasar artifacts 
-   - products.json is present in the directory
-   - app.js is present in the directory
+   - `products.json` is present in the directory
+   - `app.js` is present in the directory
    - use `node app.js 3000` to start the server
    - navigate to `http://localhost:3000/index.html` to use it
 
